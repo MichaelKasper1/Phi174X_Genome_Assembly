@@ -1,9 +1,3 @@
-Python 3.8.10 (v3.8.10:3d8993a744, May  3 2021, 08:55:58) 
-[Clang 6.0 (clang-600.0.57)] on darwin
-Type "help", "copyright", "credits" or "license()" for more information.
->>> # python 3
-
-
 class AssembleSimpleGenome:
     """
     Genome Assembler for error free, constant length reads
