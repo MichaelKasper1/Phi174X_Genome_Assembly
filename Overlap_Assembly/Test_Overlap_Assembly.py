@@ -1,3 +1,5 @@
+#python3
+
 # Test will output TRUE if the test genome assembler is able to assemble this test genome.
 def run_test():
     
