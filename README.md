@@ -1,4 +1,7 @@
 # Phix174_Genome_Assembly
+
+I am currently working locally on this project. I have uploaded a simple genome assembler but will be adding to it soon.
+
 At Washington University school of medicine, I was working on a project using data from Illumina DNA sequencers. Since read allignment is quite complicated, we chose to use external softwares to allign our reads. We used Bowtie. I became interested in how genome alignment worked and found a data structures and algorithms course on coursera whose capstone was a genome assembly project!
 
 The aim project is to recreate the genome of a specific E Coli outbreak from Germany. My goals from the project were to implement knowledge of algorithms and to continue building my understanding of working with large genetic datasets. I follow the guidelines for the project from the course.
